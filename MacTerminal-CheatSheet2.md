@@ -1,4 +1,4 @@
-# Terminal Cheatsheet for Mac (Basics)
+# Terminal Cheatsheet for Mac (2)
 _Letters are shown capitalized for readability only._  _Capslock should be off._
 ------------
 ## SHORTCUTS
